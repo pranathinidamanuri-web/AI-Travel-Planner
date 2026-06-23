@@ -177,12 +177,6 @@ Use Postman or similar tools.
 
 ---
 
-## 🎥 Demo
-
-(Add your deployed link and video link here)
-
----
-
 ## 📌 Conclusion
 
 This project demonstrates:
